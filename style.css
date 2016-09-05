@@ -1,11 +1,4 @@
-*, *:before, *:after {
-  box-sizing: border-box;
-}
-
-html {
-  overflow-y: scroll;
-}
-
+@CHARSET "ISO-8859-1";
 body {
   background: #c1bdba;
   font-family: 'Titillium Web', sans-serif;
